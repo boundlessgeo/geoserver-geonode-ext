@@ -272,13 +272,10 @@
             </exclusions>
 		</dependency>
 
-		<!-- Updated geogit to geogig -->
-    <!-- Commenting out gs-geogig because of an issue with spring-mvc
 		<dependency>
 			<groupId>org.geoserver.community</groupId>
 			<artifactId>gs-geogig</artifactId>
 		</dependency>
-    -->
 
 		<!-- Other GeoServer Extensions -->
         <dependency>
